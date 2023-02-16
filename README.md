@@ -1,10 +1,9 @@
-# Gericht-UX-UI-Lending
+# Page Vitrine Boulangerie / Patisserie
 
-## <a href="https://gerichtdeutch.netlify.app/">VIEW LIVE RESULT</a>
-The site may be slow or may not load correctly, please reload or wait...(netlify problems)*
+## <a href="">VIEW LIVE RESULT</a>
 
-![Image text](https://github.com/MorgDzh/Gericht-UX-UI-Lending/blob/main/src/assets/resimg.png)
+![Image text](https://github.com/Spacelnvader/Landing-page-boulangerie/src/assets/resimg.png)
 
 ## Intoduction
 
-A fully responsive beautiful and simple lending made for restaurant, written on react with using react-icons and deployed on netlify.
+Une page vitrine imaginé responsive pour une boulangerie / patisserie en react
