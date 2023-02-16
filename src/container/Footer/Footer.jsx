@@ -18,7 +18,7 @@ const Footer = () => (
       </div>
 
       <div className="app__footer-links_logo">
-        <img src={images.gericht} alt="footer_logo" />
+        <img src={images.logobakery} alt="footer_logo" />
         <p className="p__opensans">
           &quot;Un savoir faire Inimitable depuis 1934&quot;
         </p>
