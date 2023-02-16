@@ -42,6 +42,8 @@
 .app__specialMenu-menu_img img {
   width: 100%;
   height: auto;
+  border-right: inset 3px var(--color-golden);
+  border-left: solid 3px var(--color-golden);
 }
 
 .app__specialMenu_menu_items {
@@ -59,6 +61,7 @@
 
   .app__specialMenu-menu_img img {
     height: 920px;
+    
   }
 }
 

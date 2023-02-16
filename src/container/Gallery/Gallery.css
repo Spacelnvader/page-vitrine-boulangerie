@@ -6,7 +6,7 @@
 }
 
 .app__gallery-content {
-  flex: 1;
+  
   display: flex;
   justify-content: center;
   align-items: flex-start;
@@ -76,12 +76,12 @@
 .app__gallery-images_arrows {
   width: 100%;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
 
   padding: 0 1rem;
   position: absolute;
-  bottom: 5%;
+  bottom: -10%;
 }
 
 .gallery__arrow-icon {

@@ -1,82 +1,78 @@
 import images from './images';
 
-const wines = [
+const patisseries = [
   {
-    title: 'Chapel Hill Shiraz',
-    price: '$56',
-    tags: 'AU | Bottle',
+    title: 'Eclair  au chocolat',
+    price: '€3',
+    tags: 'pâte à choux, ganache  chocolat, glaçage au chocolat',
   },
   {
-    title: 'Catena Malbee',
-    price: '$59',
-    tags: 'AU | Bottle',
+    title: 'Paris Brest',
+    price: '$4',
+    tags: 'pâte à choux, crème praliné',
   },
   {
-    title: 'La Vieillw Rose',
-    price: '$44',
-    tags: 'FR | 750 ml',
+    title: 'Religieuse',
+    price: '$6',
+    tags: 'Pâte à choux, crème pâtissière au chocolat',
   },
   {
-    title: 'Rhino Pale Ale',
-    price: '$31',
-    tags: 'CA | 750 ml',
+    title: 'Tarte au citron meringuée',
+    price: '$5',
+    tags: 'Pâte sablée, crème citron, meringue',
   },
   {
-    title: 'Irish Guinness',
-    price: '$26',
-    tags: 'IE | 750 ml',
+    title: 'Flan pâtissier',
+    price: '$4',
+    tags: 'Crème pâtissière, caramel, crème anglaise',
   },
 ];
 
-const cocktails = [
+const pains = [
   {
-    title: 'Aperol Sprtiz',
-    price: '$20',
-    tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
+    title: 'Pain de campagne',
+    price: '$2',
+    tags: ' Sa saveur est légèrement acidulée et sa conservation plus longue que les baguettes',
   },
   {
-    title: "Dark 'N' Stormy",
-    price: '$16',
-    tags: 'Dark rum | Ginger beer | Slice of lime',
+    title: "Pain de sègle",
+    price: '$2',
+    tags: 'Le pain de seigle contient au moins 65 % de farine de seigle et au maximum 35 % de farine de blé, ce qui le rend plus digest pour ceux qui sont sensibles au gluten.',
   },
   {
-    title: 'Daiquiri',
-    price: '$10',
-    tags: 'Rum | Citrus juice | Sugar',
+    title: 'Pain   au levain',
+    price: '$2',
+    tags: 'Le pain au levain est préparé à partir d’un levain, sa fermentation est entièrement naturelle',
   },
   {
-    title: 'Old Fashioned',
-    price: '$31',
-    tags: 'Bourbon | Brown sugar | Angostura Bitters',
+    title: 'Sans Gluten',
+    price: '$4',
+    tags: 'Mix de plusieurs farines telles que le sarrasin, le maïs ou farine de riz',
   },
-  {
-    title: 'Negroni',
-    price: '$26',
-    tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
-  },
+  
 ];
 
 const awards = [
   {
     imgUrl: images.award02,
-    title: 'Bib Gourmond',
+    title: 'La Baguette dorée',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
   },
   {
     imgUrl: images.award01,
-    title: 'Rising Star',
+    title: 'étoile montante',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
   },
   {
     imgUrl: images.award05,
-    title: 'AA Hospitality',
+    title: 'Hospitalité 2022',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
   },
   {
     imgUrl: images.award03,
-    title: 'Outstanding Chef',
+    title: 'Meilleur Chef',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
   },
 ];
 
-export default { wines, cocktails, awards };
+export default { patisseries, pains, awards };

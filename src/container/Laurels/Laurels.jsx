@@ -19,8 +19,8 @@ const AwardCard = ({ award: { imgUrl, title, subtitle } }) => (
 const Laurels = () => (
   <div className="app__bg app__wrapper section__padding" id="awards">
     <div className="app__wrapper_info">
-      <SubHeading title="Awards & recognition" />
-      <h1 className="headtext__cormorant">Our Laurels</h1>
+      <SubHeading title="Récompenses et Nomination" />
+      <h1 className="headtext__cormorant">Nos Prix</h1>
 
       <div className="app__laurels_awards">
         {data.awards.map((award) => (

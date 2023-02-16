@@ -1,5 +1,10 @@
 .app__header {
-  background-color: var(--color-black);
+  background-image: url(../../assets/PainDuTigre.png);
+  
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-position: center;
+  background-attachment: fixed;
 }
 
 .app__header-h1 {
