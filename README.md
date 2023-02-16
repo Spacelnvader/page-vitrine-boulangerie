@@ -1,8 +1,8 @@
 # Page Vitrine Boulangerie / Patisserie
 
-## <a href="">VIEW LIVE RESULT</a>
+## <a href="https://spacelnvader-landing-page.netlify.app/">VIEW LIVE RESULT</a>
 
-![Image text](https://github.com/Spacelnvader/Landing-page-boulangerie/src/assets/resimg.png)
+![Image text](https://github.com/Spacelnvader/page-vitrine-boulangerie/blob/main/src/assets/resimg.png)
 
 ## Intoduction
 
